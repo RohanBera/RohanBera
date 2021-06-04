@@ -1,16 +1,32 @@
-## Hi there 👋
 
-<!--
-**RohanBera/RohanBera** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center"> 
+    <h1 title="Hehehehehe"> Hi 👋! I am Rohan!</h1>
+</div>
 
-Here are some ideas to get you started:
+<hr>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About me!
+
+👨‍🎓  Student at **University of Hyderabad** persuing *Integrated Mtech* in *Computer Science*
+
+<img align="right" alt="GIF" src="assets/code.gif" />
+
+✨ **Learning** ✨ 
+
+- Neural networks
+- Dynamic programming
+
+✨ **Hobbies** ✨ 
+
+- Guitar 🎸 
+- Cubing
+- Anime 👀
+- Gym 🏋 
+
+✨ **Random Stuff** ✨ 
+
+- 🤔 This area needs work (Like contact me area maybe? 
+- )
+- 📫 Email me at [17mcme21@uohyd.ac.in](mailto:17mcme21@uohyd.ac.in).
+- ⚡ Fun fact: I brush my teeth in the morning
+
