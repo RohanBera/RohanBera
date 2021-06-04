@@ -23,10 +23,9 @@
 - Anime 👀
 - Gym 🏋 
 
-✨ **Random Stuff** ✨ 
+## Contact me!
 
-- 🤔 This area needs work (Like contact me area maybe? 
-- )
+- 🤔 This area needs work.
 - 📫 Email me at [17mcme21@uohyd.ac.in](mailto:17mcme21@uohyd.ac.in).
 - ⚡ Fun fact: I brush my teeth in the morning
 
