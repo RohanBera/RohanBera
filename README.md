@@ -7,7 +7,7 @@
 
 ## About me!
 
-👨‍🎓  Student at **University of Hyderabad** persuing *Integrated Mtech* in *Computer Science*
+👨‍🎓  Student at **University of Hyderabad** pursuing *Integrated Mtech* in *Computer Science*
 
 <img align="right" alt="GIF" src="assets/code.gif" />
 
