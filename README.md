@@ -7,12 +7,14 @@
 
 ## About me!
 
-👨‍🎓  Student at **University of Hyderabad** pursuing *Integrated Mtech* in *Computer Science*
+👨‍🎓  *Integrated Mtech* in *Computer Science* at **University of Hyderabad** 
+👨‍🎓  *Masters* in *Computer Science* at **Georgia State University** 
 
 <img align="right" alt="GIF" src="assets/code.gif" />
 
 ✨ **Learning** ✨ 
 
+- Computer Vision
 - Neural networks
 - Dynamic programming
 
