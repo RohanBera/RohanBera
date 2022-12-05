@@ -7,7 +7,7 @@
 
 ## About me!
 
-👨‍🎓  *Integrated Mtech* in *Computer Science* at **University of Hyderabad** 
+👨‍🎓  *Integrated Mtech* in *Computer Science* at **University of Hyderabad** <br />
 👨‍🎓  *Masters* in *Computer Science* at **Georgia State University** 
 
 <img align="right" alt="GIF" src="assets/code.gif" />
